@@ -3,7 +3,7 @@ Built a machine learning-based liver disease prediction system using 5500+ patie
 
 
 
-# 🩺 Liver Disease Prediction using Machine Learning
+#  Liver Disease Prediction using Machine Learning
 
 An advanced end-to-end Machine Learning project for predicting multiple liver disease conditions using clinical, biochemical, and lifestyle patient data.
 
@@ -21,7 +21,7 @@ Built using Python, Scikit-learn, Pandas, NumPy, Matplotlib, and Seaborn.
 
 ---
 
-# 🚀 Project Overview
+#  Project Overview
 
 This system predicts liver disease categories from patient medical records and lifestyle indicators using supervised machine learning models.
 
@@ -40,7 +40,7 @@ The pipeline includes:
 
 ---
 
-# 🧠 Disease Classes Predicted
+#  Disease Classes Predicted
 
 The model predicts the following categories:
 
@@ -52,7 +52,7 @@ The model predicts the following categories:
 
 ---
 
-# 📊 Dataset Information
+#  Dataset Information
 
 | Attribute | Details |
 |---|---|
@@ -63,7 +63,7 @@ The model predicts the following categories:
 
 ---
 
-# ⚙️ Technologies Used
+#  Technologies Used
 
 ## Programming Language
 - Python 3.x
@@ -77,7 +77,7 @@ The model predicts the following categories:
 
 ---
 
-# 🏗️ Machine Learning Models
+#  Machine Learning Models
 
 The following models were trained and evaluated:
 
@@ -89,16 +89,16 @@ The following models were trained and evaluated:
 
 ---
 
-# 🔍 Key Features
+#  Key Features
 
-## ✅ Advanced Data Preprocessing
+##  Advanced Data Preprocessing
 - Missing value handling
 - Median imputation
 - Label encoding
 - Ordinal encoding
 - Feature scaling
 
-## ✅ Exploratory Data Analysis
+##  Exploratory Data Analysis
 Automatically generates professional plots for:
 - Disease distribution
 - Liver enzyme analysis
@@ -107,7 +107,7 @@ Automatically generates professional plots for:
 - Correlation heatmaps
 - Gender & age analysis
 
-## ✅ Model Evaluation
+##  Model Evaluation
 Compares models using:
 - Accuracy
 - Precision
@@ -115,15 +115,15 @@ Compares models using:
 - F1 Score
 - Cross Validation
 
-## ✅ Feature Importance Analysis
+##  Feature Importance Analysis
 Identifies the most important clinical indicators affecting liver disease prediction.
 
-## ✅ Real-Time Prediction Mode
+##  Real-Time Prediction Mode
 Allows users to manually enter patient data and get disease predictions instantly.
 
 ---
 
-# 📈 Generated Visualizations
+#  Generated Visualizations
 
 The project automatically creates multiple healthcare analytics dashboards inside the `plots/` folder.
 
@@ -147,7 +147,7 @@ plots/
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 liver-disease-prediction/
@@ -161,9 +161,9 @@ liver-disease-prediction/
 
 ---
 
-# 🖥️ Installation
+#  Installation
 
-## 1️⃣ Clone Repository
+## 1️ Clone Repository
 
 ```bash
 git clone https://github.com/your-username/liver-disease-prediction.git
@@ -172,7 +172,7 @@ cd liver-disease-prediction
 
 ---
 
-## 2️⃣ Install Dependencies
+## 2️ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -180,7 +180,7 @@ pip install -r requirements.txt
 
 ---
 
-## 3️⃣ Run Project
+## 3️ Run Project
 
 ```bash
 python liver_project.py
@@ -188,7 +188,7 @@ python liver_project.py
 
 ---
 
-# 📦 Requirements
+#  Requirements
 
 ```txt
 pandas
@@ -200,7 +200,7 @@ scikit-learn
 
 ---
 
-# 🧪 Evaluation Metrics
+#  Evaluation Metrics
 
 Models are evaluated using:
 
@@ -214,7 +214,7 @@ Models are evaluated using:
 
 ---
 
-# 🧠 Important Features Used
+#  Important Features Used
 
 ## Clinical Features
 - ALT
@@ -241,7 +241,7 @@ Models are evaluated using:
 
 ---
 
-# 🖥️ Real-Time Prediction Example
+#  Real-Time Prediction Example
 
 ```text
 Gender: Male
@@ -261,7 +261,7 @@ Fatty Liver Disease (NAFLD)
 
 ---
 
-# 📊 Best Performing Model
+#  Best Performing Model
 
 The system automatically selects the best-performing model based on:
 - Highest F1 Score
@@ -272,7 +272,7 @@ Random Forest generally performs best due to its strong ensemble learning capabi
 
 ---
 
-# 🔬 Project Highlights
+#  Project Highlights
 
 ✔ End-to-End ML Pipeline  
 ✔ Healthcare Analytics Dashboard  
@@ -283,7 +283,7 @@ Random Forest generally performs best due to its strong ensemble learning capabi
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 Possible future enhancements:
 
@@ -297,7 +297,7 @@ Possible future enhancements:
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome.
 
@@ -308,35 +308,19 @@ Contributions are welcome.
 
 ---
 
-# 📜 License
+#  License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
-Developed as an advanced Machine Learning and Healthcare Analytics project focused on liver disease prediction and biomedical data intelligence.
-
----
-
-# ⭐ GitHub Tips
-
-## Recommended Files to Upload
-✅ README.md  
-✅ requirements.txt  
-✅ plots/ screenshots  
-✅ clean source code  
-
-## Avoid Uploading
-❌ .env files  
-❌ virtual environments (`venv/`)  
-❌ cache folders  
-❌ personal credentials  
+Developed as an advanced Machine Learning and Healthcare Analytics project focused on liver disease prediction and biomedical data intelligence. 
 
 ---
 
-# 📌 Skills Demonstrated
+#  Skills Demonstrated
 
 - Machine Learning
 - Data Science
